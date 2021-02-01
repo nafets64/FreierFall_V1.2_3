@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Controller"},{"l":"Modell"},{"l":"View"},{"l":"View.Auswertungsbereich"},{"l":"View.ExperimentierBereich"},{"l":"View.LaborBereich"},{"l":"View.LaborBereich.SwingKomponenten"},{"l":"Zeichenformen"}];updateSearchResults();
